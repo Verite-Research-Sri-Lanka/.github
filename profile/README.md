@@ -1,10 +1,10 @@
-![Open Source at Verité Research] (images/open-at-veriteresearch.jpg)
+![Open Source at Verité Research](https://github.com/Verite-Research-Sri-Lanka/.github/blob/5f2c3b59cca29d25c4ff150486a2e27b6d674a36/images/open-at-veriteresearch.jpg)
 
 ## Get Involved
 
 Verité Research delivers strategic insights and rigorous analysis across key areas like economics, politics, law, and media in Asia. There are excellent opportunities to get involved if you're passionate about driving change through thoughtful recommendations and data-driven research.
 
-[Explore Our Projects](https://www.veriteresearch.org/research/ ): Explore our latest projects and learn how we shape public policy and discourse in the region.
+[Explore Our Projects](https://www.veriteresearch.org/research/): Explore our latest projects and learn how we shape public policy and discourse in the region.
 - [Explore Careers at Verité Research](https://www.veriteresearch.org/careers/): Join our team and collaborate with leading experts across various disciplines. Check out our open positions and internships.
 - [Support Our Initiatives](https://www.veriteresearch.org/donate/): Contribute to our mission by supporting our research and outreach programs that impact key stakeholders' policy-making and decision-making processes.
 
