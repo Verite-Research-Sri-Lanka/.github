@@ -1,4 +1,4 @@
-![Open Source at Verité Research] (https://github.com/Verite-Research-Sri-Lanka/.github/blob/2eb8eee9c9ca9edf33b567d57e6ebf8da447bf1c/images/open-at-veriteresearch.jpg)
+![Open Source at Verité Research] (images/open-at-veriteresearch.jpg)
 
 ## Get Involved
 
